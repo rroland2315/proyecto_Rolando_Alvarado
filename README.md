@@ -9,3 +9,5 @@ La primera parte del proyecto integrador consistira en lo siguiente:
 -Crear el archivo main del proyecto.
 -Pedir el nombre del jugador por teclado.
 -Imprimir un mensaje de bienvenida con el nombre.
+
+-Ahora ya se agrego un codigo con un ciclo infinito que se termina cuando precionamos la tecla de arriba
